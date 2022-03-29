@@ -2,7 +2,7 @@
 try-grunge-with-deploy-4cfa
 
 @aws
-  us-east-2
+  region us-east-2
 
 @http
 /*
